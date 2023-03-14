@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.images{
+    width: 300px;
+}
+p{
+    font-size: 20px;
+}
+.block0{
+    background-color: rgb(27, 166, 157);
+    border: 5px solid rgb(51, 13, 128);
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.block2{
+    background-color: aquamarine;
+}
+.block3{
+    background-color: rgb(162, 225, 201);
+}
+.block4{
+    border: 3px solid black;
+    text-align: center;
+}
+.block4 img{
+    width: 40px;
+    align-items: center;
+}
+body{
+    background-color: beige;
+}
